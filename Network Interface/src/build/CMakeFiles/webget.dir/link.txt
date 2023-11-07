@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/webget.dir/webget.o -o webget   -L/home/cs144/csc458-pa/src/build  libcsc458_debug.a -lutil_debug 

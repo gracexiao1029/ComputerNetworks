@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcsc458_debug.a CMakeFiles/csc458_debug.dir/webget.o
+/usr/bin/ranlib libcsc458_debug.a

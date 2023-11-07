@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcsc458_optimized.a CMakeFiles/csc458_optimized.dir/webget.o
+/usr/bin/ranlib libcsc458_optimized.a

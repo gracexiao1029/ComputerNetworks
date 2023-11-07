@@ -1,0 +1,6 @@
+/home/cs144/csc458-pa/src/build/CMakeFiles/csc458_debug.dir
+/home/cs144/csc458-pa/src/build/CMakeFiles/csc458_sanitized.dir
+/home/cs144/csc458-pa/src/build/CMakeFiles/csc458_optimized.dir
+/home/cs144/csc458-pa/src/build/CMakeFiles/webget.dir
+/home/cs144/csc458-pa/src/build/CMakeFiles/edit_cache.dir
+/home/cs144/csc458-pa/src/build/CMakeFiles/rebuild_cache.dir
